@@ -2,6 +2,7 @@
 test project
 ******************************************************
 question5 :
+on peut utiliser cette interface par d'autre interfaces (heritage), implementer par des classes. 
  -L'importance de cette interface "IObjetDessinable" est de:
 ⦁	Réaliser un couplage faible ( faible responsabilité qui respecte le princip S).
 ⦁	Réaliser l'abstraction .
